@@ -1,0 +1,13 @@
+ul.nav li{
+    display: inline-block;
+    padding-right: 10px;
+}
+#about_blue{
+  background: blue;
+  border: 2px solid black;
+}
+#about_yellow{
+  background: green;
+  border: 2px solid black;
+}
+hello
